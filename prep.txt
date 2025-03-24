@@ -1,0 +1,12 @@
+WEekly plan questions: 
+
+2 coding problems
+4 algos / DS / system design
+
+
+https://neetcode.io/practice
+2 problems from Any 2 sections for the week. 
+
+March 24 week:
+1. Arrays and Hashing
+2. 2 pointer
